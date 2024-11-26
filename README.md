@@ -1,4 +1,4 @@
-# Equivalency-and-Sensitivity-Analysis-RCT
+# Equivalency and Sensitivity Analysis in Randomized Controlled Trials (RCTs), by Ania Supady
 
 link to Colab: https://github.com/AniaSupady/Equivalency-and-Sensitivity-Analysis-RCT/blob/main/Equivalency_and_Sensitivity_Analysis.ipynb
 
